@@ -12,4 +12,3 @@ BeautifulSoup
 pyxdg
 bs4
 six
-https://github.com/kpu/kenlm/archive/master.zip
